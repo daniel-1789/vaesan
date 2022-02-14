@@ -64,10 +64,10 @@ In the attic Sophia cranked an apparatus she had built to present the Dance of D
 > family is missing. He kneels by the side of the road, 
 > begging for coin, and no one knows that his name 
 > was once sung in the palaces of Europe.
-
+>
 > Suddenly he sees things no one else does – creatures creeping, flying, and crawling – as the Invisibles reveal themselves to him. When he points them 
 > out to others, he is mocked and beaten.
-
+>
 > A man picks him up from the street and has him 
 > bathed and clothed. The man’s name is Albert, and 
 > his mansion is a place of love and song. Our young 
@@ -81,7 +81,7 @@ In the attic Sophia cranked an apparatus she had built to present the Dance of D
 > It was you. You brought me here. You asked me to 
 > sit down and talk. We spoke of the future of the world.
 >
- I have the right to refuse, you said so and smiled, 
+> I have the right to refuse, you said so and smiled, 
 > and then you butchered me like a pig one hangs from 
 > the ceiling. You buried my body in unholy ground, 
 > without priest or consecration.
