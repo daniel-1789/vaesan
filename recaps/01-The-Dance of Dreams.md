@@ -3,8 +3,10 @@
 Year 1, September, 18--
 
 Upsala and the Witch Cat Inn
+
 ## The Invitation
 THE DANCE OF DREAMS
+
 A shadow play of horror, murder, and revenge!
 
 Let yourself be enraptured and terrified by shadow theater with 
@@ -19,6 +21,8 @@ Not for the faint of heart!
 
 On the note someone has written: 
 > Meet me tonight at the Witch Cat Inn /Olaus.
+
+
 ## Characters
 ### PCs
 - Egil Ek, Hunter
